@@ -1,0 +1,3 @@
+This has been a great week. Busy, but great.  I really like the people in my cohort which, in my opinion, is more diverse than my cohort from last month.  Case in point, there was only one female in my first cohort.  This current cohort has at least 6 females.  This is good for tech!
+
+Today I learned function basics and forked a branch for the third time in my time at Code Fellows.  I also learned so much from my pair-programming lab today from Kimmer.  Kimmer is a very positive guy who really wants to learn how to code.  I really appreciate his willingness to engage and talk through coding problems.  He's going to be a good programmer.
