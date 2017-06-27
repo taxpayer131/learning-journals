@@ -1,0 +1,1 @@
+Today I was reminded of the importance of keeping my ego in check when accepting guidance from other developers.  There was no particular incident that led to this reminder.  However, my IT career as of late has consisted of me having to rely on myself.  It's a significant adjustment to pair-programming for me.
