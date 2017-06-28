@@ -1,0 +1,1 @@
+Today was hard.  I had to ask for a lot of help rendering the JS in the leaderboard into HTML.  I still feel like I don't know very much.  Today was the complete opposite yesterday where I felt very confident and got a lot done.
