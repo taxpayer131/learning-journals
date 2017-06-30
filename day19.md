@@ -1,0 +1,1 @@
+Last day woo hoo!  We completed all the functionality and our product is "ready to go" as-is.  We spent about an hour today rehearsing and refining our presentation, 30 minutes with the instructional staff then 30 minutes with just each other at the end of the day.  We're well-prepared for tomorrow and ready to "git 'er done"!
